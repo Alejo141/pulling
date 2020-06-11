@@ -13,3 +13,7 @@ foreach ($persona as $valor){
      
 ?>
 
+<hmtl>
+   <h1>Estoy practicando con GitKraken</h1>
+   </html>
+
