@@ -8,3 +8,7 @@ foreach ($persona as $valor){
      }
 
 ?>
+
+foreach ($persona as $valor){
+     echo "$valor <br>";
+     }
